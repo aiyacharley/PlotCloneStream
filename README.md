@@ -47,4 +47,7 @@ CAGCAATATAACAGCTATCCTCTCACG     3       1821    1572    5302    1.9178  2.447   
 ```
 
 # Figure
+## Raw read number clone stream
 ![Clone Stream for percemtage](https://github.com/aiyacharley/PlotCloneStream/blob/master/ResultsDemo/ThreeTimes-clones-num.png)
+## Percentage read number clone stream
+![Clone Stream for percemtage](https://github.com/aiyacharley/PlotCloneStream/blob/master/ResultsDemo/ThreeTimes-clones-per.png)
