@@ -47,4 +47,4 @@ CAGCAATATAACAGCTATCCTCTCACG     3       1821    1572    5302    1.9178  2.447   
 ```
 
 # Figure
-![Clone Stream for percemtage]https://github.com/aiyacharley/PlotCloneStream/blob/master/ResultsDemo/ThreeTimes-clones-num.png
+![Clone Stream for percemtage](https://github.com/aiyacharley/PlotCloneStream/blob/master/ResultsDemo/ThreeTimes-clones-num.png)
